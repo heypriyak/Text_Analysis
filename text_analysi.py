@@ -14,7 +14,7 @@ nltk.download('stopwords')
 STOPWORDS_PATH = "../data/StopWords/"
 MASTER_DICT_PATH = "../data/MasterDictionary/"
 ARTICLES_PATH = "../data/output/extracted_articles/"
-OUTPUT_PATH = "../data/output/Output Data Structure.xlsx"
+OUTPUT_PATH = "../Output Data Structure.xlsx"
 INPUT_PATH = "../data/input.xlsx"
 
 def load_stopwords():
